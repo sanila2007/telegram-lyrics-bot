@@ -23,7 +23,7 @@
 4. `TOKEN` - Client Access Token from genius.com API
 
 ## How this works?
-- It is quiet simple. You just need to send the name of the son that you want to get lyrics. And also you can search for lyrics using the Inline mode.
+- It is quiet simple. You just need to send the name of the song that you want to get lyrics. And also you can search for lyrics using the Inline mode.
 
 ## How to get a Client Access Token from genius.com?
 - You can get your token by visiting the [Genius.com API Clients](https://genius.com/api-clients) page and click <i>Generate Access Token.</i> This will give you an access token and now you are good to go.
