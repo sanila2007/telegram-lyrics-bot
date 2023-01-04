@@ -1,4 +1,4 @@
-# Telgram Lyrics Bot
+# Telegram Lyrics Bot
 
 > A Telegram bot that can get lyrics of any song🔥❤️💫
 ---------------------
