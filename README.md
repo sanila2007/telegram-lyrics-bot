@@ -41,7 +41,7 @@ Heroku
 ```
 ## Credits
 
-- [YouTube-bot-telegram](https://github.com/sanila2007/telegram-lyrics-bot)
+- [Telegram-Lyrics-Bot](https://github.com/sanila2007/telegram-lyrics-bot)
 ```
 
 ## Credits
