@@ -25,12 +25,6 @@
             "description": "Client access token from Genius.com API CLIENT",
             "required": true
         }
-    },
-    "formation": {
-    "worker": {
-      "quantity": 1,
-      "size": "free"
-    }
   },
     "buildpacks": [
         {
